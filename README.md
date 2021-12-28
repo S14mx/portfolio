@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Sergii Otryshko
 
-Make it your own! 
+[Go to portfolio](https://epic-thompson-a876f4.netlify.app/)
