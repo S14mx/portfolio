@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "Hi",
+      "description_header": "Hello",
       "description": "👋 I'm Sergii Otryshko, a software developer with a background in law, telecommunications and customer service. I graduated  from Kyiv National Linguistic University with a master's degree in business law and after trying several different professions I fell in love with software development because of the truly unlimited number of options and possibilities it gives you and the potential to make the world a better place. Also I've always enjoyed solving puzzles so I guess I can call that the icing on the cake for me. I have various work experiences such as working as a legal assistant, cable technician and delivery driver, also I have a strong background in customer service. I firmly believe that I can leverage all my previous experience to my advantage in my new career to approach problems from non-standard angles and come up with customer-oriented solutions.",
       "section_name": {
         "about": "About me",
@@ -74,37 +74,29 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "09.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML 5",
+          "CSS 3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Coscom Cable",
+        "title": "Cable technician",
+        "years": "09.2020 - 09.2021",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          
         ]
       }
     ]
